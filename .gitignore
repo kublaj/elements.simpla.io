@@ -1,1 +1,5 @@
-bower_components
+*
+!.bowerrc
+!.gitignore
+!bower.json
+!_headers
