@@ -1,0 +1,35 @@
+{
+  "name": "Simpla Elements Server",
+  "authors": [
+    "Simpla <admin@simpla.io>"
+  ],
+  "description": "System to serve Simpla Elements",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "simpla-img": "https://github.com/simplaio/simpla-img.git",
+    "simpla-text": "https://github.com/simplaio/simpla-text.git",
+    "simpla-block": "https://github.com/simplaio/simpla-block.git",
+    "sm-admin": "https://github.com/simplaio/sm-admin.git",
+    "sm-ui-callout": "https://github.com/simplaio/sm-ui-callout.git",
+    "sm-ui-button": "https://github.com/simplaio/sm-ui-button.git",
+    "sm-utility-connect": "https://github.com/simplaio/sm-utility-connect.git",
+    "sm-ui-toolbar": "https://github.com/simplaio/sm-ui-toolbar.git",
+    "sm-module-login": "https://github.com/simplaio/sm-module-login.git",
+    "sm-module-save": "https://github.com/simplaio/sm-module-save.git",
+    "sm-ui-modal": "https://github.com/simplaio/sm-ui-modal.git",
+    "sm-module-notify": "https://github.com/simplaio/sm-module-notify.git",
+    "sm-utility-auth": "https://github.com/simplaio/sm-utility-auth.git",
+    "sm-utility-share": "https://github.com/simplaio/sm-utility-share.git",
+    "sm-utility-placeholder": "https://github.com/simplaio/sm-utility-placeholder.git"
+  }
+}
