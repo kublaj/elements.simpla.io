@@ -30,6 +30,7 @@
     "sm-module-notify": "https://github.com/simplaio/sm-module-notify.git",
     "sm-utility-auth": "https://github.com/simplaio/sm-utility-auth.git",
     "sm-utility-share": "https://github.com/simplaio/sm-utility-share.git",
-    "sm-utility-placeholder": "https://github.com/simplaio/sm-utility-placeholder.git"
+    "sm-utility-placeholder": "https://github.com/simplaio/sm-utility-placeholder.git",
+    "polymer": "1.2.x"
   }
 }
