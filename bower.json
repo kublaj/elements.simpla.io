@@ -16,24 +16,21 @@
     "tests"
   ],
   "dependencies": {
-    "simpla-img": "https://github.com/simplaio/simpla-img.git",
-    "simpla-text": "https://github.com/simplaio/simpla-text.git",
-    "simpla-block": "https://github.com/simplaio/simpla-block.git",
-    "sm-admin": "https://github.com/simplaio/sm-admin.git",
-    "sm-ui-callout": "https://github.com/simplaio/sm-ui-callout.git",
-    "sm-ui-button": "https://github.com/simplaio/sm-ui-button.git",
-    "sm-utility-connect": "https://github.com/simplaio/sm-utility-connect.git",
-    "sm-ui-toolbar": "https://github.com/simplaio/sm-ui-toolbar.git",
-    "sm-module-login": "https://github.com/simplaio/sm-module-login.git",
-    "sm-module-save": "https://github.com/simplaio/sm-module-save.git",
-    "sm-ui-modal": "https://github.com/simplaio/sm-ui-modal.git",
-    "sm-module-notify": "https://github.com/simplaio/sm-module-notify.git",
-    "sm-utility-auth": "https://github.com/simplaio/sm-utility-auth.git",
-    "sm-utility-share": "https://github.com/simplaio/sm-utility-share.git",
-    "sm-utility-placeholder": "https://github.com/simplaio/sm-utility-placeholder.git",
-    "polymer": "1.2.x"
-  },
-  "resolutions": {
+    "simpla-img": "SimplaElements/simpla-img#^0.1.0",
+    "simpla-text": "SimplaElements/simpla-text#^0.1.0",
+    "simpla-block": "SimplaElements/simpla-block#^0.1.0",
+    "sm-admin": "SimplaElements/sm-admin#^0.1.0",
+    "sm-ui-callout": "SimplaElements/sm-ui-callout#^0.1.0",
+    "sm-ui-button": "SimplaElements/sm-ui-button#^0.1.0",
+    "sm-utility-connect": "SimplaElements/sm-utility-connect#^0.1.0",
+    "sm-ui-toolbar": "SimplaElements/sm-ui-toolbar#^0.1.0",
+    "sm-module-login": "SimplaElements/sm-module-login#^0.1.0",
+    "sm-module-save": "SimplaElements/sm-module-save#^0.1.0",
+    "sm-ui-modal": "SimplaElements/sm-ui-modal#^0.1.0",
+    "sm-module-notify": "SimplaElements/sm-module-notify#^0.1.0",
+    "sm-utility-auth": "SimplaElements/sm-utility-auth#^0.1.0",
+    "sm-utility-share": "SimplaElements/sm-utility-share#^0.1.0",
+    "sm-utility-placeholder": "SimplaElements/sm-utility-placeholder#^0.1.0",
     "polymer": "^1.3.0"
   }
 }
